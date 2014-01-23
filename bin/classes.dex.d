@@ -1,0 +1,27 @@
+/Users/jls/Desktop/CheckDigicode/bin/classes.dex : \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/BuildConfig.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity$1.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity$2.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity$3.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity$4.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity$5.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/CheckDigicodeActivity.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/controller/ContactsManagerController.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/controller/ContactsManagerControllerEnded.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/data/ContactAddessDAO.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/data/ContactAddressDB.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/data/model/Contact.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/data/model/ContactAddress.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/data/model/ContactResult.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/location/Constants.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/location/Coordinates.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/location/GPSTracker.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/location/LocationConstants.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/location/LocationRetriever.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/Manifest.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R$attr.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R$drawable.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R$id.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R$layout.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R$string.class \
+/Users/jls/Desktop/CheckDigicode/bin/classes/com/google/checkDigicode/R.class \

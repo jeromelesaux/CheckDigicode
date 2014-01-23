@@ -1,0 +1,20 @@
+/Users/jls/Desktop/CheckDigicode/bin/CheckDigicode.ap_ \
+ : /Users/jls/Desktop/CheckDigicode/res/drawable-hdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-hdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-ldpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-ldpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-mdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-mdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-xhdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/res/drawable-xhdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/res/layout/main.xml \
+/Users/jls/Desktop/CheckDigicode/res/values/strings.xml \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-hdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-ldpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-ldpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-mdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-xhdpi/digicode_image.png \
+/Users/jls/Desktop/CheckDigicode/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/jls/Desktop/CheckDigicode/bin/AndroidManifest.xml \
